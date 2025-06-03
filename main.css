@@ -27,7 +27,7 @@ a:hover {
 
 #content2 {
     position: absolute;
-    top: 0%;
+    top: 100%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) ;
